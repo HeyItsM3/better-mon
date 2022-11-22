@@ -1,6 +1,6 @@
 # Which Pokémon is better?
 
-## Getting Started
+##  Getting Started
 
 Prerequisite:
 

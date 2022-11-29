@@ -28,6 +28,7 @@ Tech stack:
 1. Prisma: https://www.prisma.io/
 1. Next.js: https://nextjs.org/
 1. Tailwind: https://tailwindcss.com/
+1. Upstash: https://upstash.com/
 
 
 [More info](https://www.twitch.tv/theo)
